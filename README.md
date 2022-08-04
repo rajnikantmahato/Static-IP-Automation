@@ -1,4 +1,4 @@
-# Vaim-Zork Free Version 
+# Static-IP-Automation Script 
 <img src="SamayAyushSonu.png"><br>
 
 
